@@ -10,7 +10,7 @@
  
 },
     { "title":"Elephant Dream good one",
-      "description":"The first Blender Open Movie from 2006",
+      "desc":"The first Blender Open Movie from 2006",
       "subtitle":"By Blender Foundation",
       "thumb":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
       "sources":["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"]
